@@ -4,7 +4,11 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
-        "serde"
+        "Damerau",
+        "Jaro",
+        "Levenshtein",
+        "serde",
+        "strsim"
     ],
     "ignoreWords": [],
     "import": []
